@@ -1,0 +1,16 @@
+C:\WorkSpace\DotNET-Aula\AppPokemon\bin\Debug\net5.0\AppPokemon.exe
+C:\WorkSpace\DotNET-Aula\AppPokemon\bin\Debug\net5.0\AppPokemon.deps.json
+C:\WorkSpace\DotNET-Aula\AppPokemon\bin\Debug\net5.0\AppPokemon.runtimeconfig.json
+C:\WorkSpace\DotNET-Aula\AppPokemon\bin\Debug\net5.0\AppPokemon.runtimeconfig.dev.json
+C:\WorkSpace\DotNET-Aula\AppPokemon\bin\Debug\net5.0\AppPokemon.dll
+C:\WorkSpace\DotNET-Aula\AppPokemon\bin\Debug\net5.0\ref\AppPokemon.dll
+C:\WorkSpace\DotNET-Aula\AppPokemon\bin\Debug\net5.0\AppPokemon.pdb
+C:\WorkSpace\DotNET-Aula\AppPokemon\obj\Debug\net5.0\AppPokemon.csprojAssemblyReference.cache
+C:\WorkSpace\DotNET-Aula\AppPokemon\obj\Debug\net5.0\AppPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\DotNET-Aula\AppPokemon\obj\Debug\net5.0\AppPokemon.AssemblyInfoInputs.cache
+C:\WorkSpace\DotNET-Aula\AppPokemon\obj\Debug\net5.0\AppPokemon.AssemblyInfo.cs
+C:\WorkSpace\DotNET-Aula\AppPokemon\obj\Debug\net5.0\AppPokemon.csproj.CoreCompileInputs.cache
+C:\WorkSpace\DotNET-Aula\AppPokemon\obj\Debug\net5.0\AppPokemon.dll
+C:\WorkSpace\DotNET-Aula\AppPokemon\obj\Debug\net5.0\ref\AppPokemon.dll
+C:\WorkSpace\DotNET-Aula\AppPokemon\obj\Debug\net5.0\AppPokemon.pdb
+C:\WorkSpace\DotNET-Aula\AppPokemon\obj\Debug\net5.0\AppPokemon.genruntimeconfig.cache
